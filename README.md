@@ -1,4 +1,4 @@
-# PAWSC for 900MHz and 1800MHz Cellular operating in TV White Space
+# PAWSC for 900MHz and 1800MHz Cellular operating in native cellular spectrum
 This code is written in Python Django using the Django RESTAPI framework
 https://www.django-rest-framework.org/
 
